@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+*.iml
+.idea/*
+.idea/vcs.xml
+producer/src/main/resources/static/
+producer/src/main/resources/templates/
+.mvn
+.idea/compiler.xml
