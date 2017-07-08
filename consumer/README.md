@@ -1,4 +1,2 @@
-Build docker RabbitMQ image:
+Build docker Kafka image:
 ----------------------------
-
-docker run -d --name srabbit -p 5672:5672 rabbitmq:3
